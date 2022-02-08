@@ -4,7 +4,7 @@
 </em></p>
 
 [![Twitter: SaeedBahmanabadi](https://img.shields.io/twitter/follow/SaeedBahmanabadi?style=social)](https://twitter.com/SaeedBahmanabadi)
-[![Linkedin: SaeedBahmanabadi](https://img.shields.io/badge/-saeedbahmanabadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saeedbahmanabadi/)](https://www.linkedin.com/in/SaeedBahmanabadi/)
+[![Linkedin: SaeedBahmanabadi](https://img.shields.io/badge/-saeedbahmanabadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saeedbahmanabadi/)](https://www.linkedin.com/in/saeed-bahmanabadi-9550ba1b5/)
 [![GitHub BlackCounter](https://img.shields.io/github/followers/saeed?label=follow&style=social)](https://github.com/BlackCounter)
 
 
