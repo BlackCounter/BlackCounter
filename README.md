@@ -3,7 +3,7 @@
 <p><em>Software Enginner at <a href="http://www.unb.br">University of ... </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">My Own</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Twitter: @redrighthandroc](https://img.shields.io/twitter/follow/SaeedBahmanabadi?style=social)](https://twitter.com/redrighthandroc?s=08)
+[![Twitter: redrighthandroc](https://img.shields.io/twitter/follow/redrighthandroc?style=social)](https://twitter.com/redrighthandroc?s=08)
 [![Linkedin: SaeedBahmanabadi](https://img.shields.io/badge/-saeedbahmanabadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saeedbahmanabadi/)](https://www.linkedin.com/in/saeed-bahmanabadi-9550ba1b5/)
 [![GitHub BlackCounter](https://img.shields.io/github/followers/saeed?label=follow&style=social)](https://github.com/BlackCounter)
 
