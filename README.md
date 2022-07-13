@@ -11,7 +11,7 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const Saeed = {
+const Saeed Bahmanabadi = {
   pronouns: "she" | "her",
   code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java,C,Assembly,Cloujer,Scala,...],
   tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker, Kubernetes, Openshift, Openstack, Microsoft Azure Devops,...],
