@@ -12,7 +12,7 @@
 
 ```javascript
 const Saeed Bahmanabadi = {
-  pronouns: "she" | "her",
+  pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java,C,Assembly,Cloujer,Scala,...],
   tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker, Kubernetes, Openshift, Openstack, Microsoft Azure Devops,...],
   architecture: ["microservices", "event-driven", "design system pattern"],
